@@ -1,1 +1,1 @@
-exercicíos do WHile e do
+exercicíos do While e do
